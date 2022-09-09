@@ -1,0 +1,1 @@
+# sterile_class
